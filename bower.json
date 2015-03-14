@@ -1,0 +1,22 @@
+{
+  "name": "Angular-Grunt",
+  "version": "0.1.0",
+  "authors": [
+    "tarun <cooltarunsharma111@gmail.com>"
+  ],
+  "description": "Bower deps for app",
+  "main": "index.html",
+  "keywords": [
+    "Grunt",
+    "Node",
+    "Angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
